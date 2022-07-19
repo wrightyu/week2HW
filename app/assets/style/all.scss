@@ -86,12 +86,11 @@ body {
       );
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;    
+  height: 100vh;    
 }
 .banner div {
+  margin: 0 auto;
+  padding-top: 308px;
   width: 304px;
 }
 .banner p {
