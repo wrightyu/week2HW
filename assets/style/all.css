@@ -84,18 +84,11 @@ body {
   background: url(https://github.com/hexschool/2022-web-layout-training/blob/main/week2/banner.png?raw=true);
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center; }
+  height: 100vh; }
 
 .banner div {
+  margin: 0 auto;
+  padding-top: 308px;
   width: 304px; }
 
 .banner p {
